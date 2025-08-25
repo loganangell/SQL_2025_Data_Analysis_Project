@@ -3,4 +3,4 @@
 
 -- Testing to see if the file is correctly pushed to GitHub
 
-SELECT * FROM job_postings_fact LIMIT 10;
+SELECT * FROM job_postings_fact LIMIT 15;
