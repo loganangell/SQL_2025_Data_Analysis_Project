@@ -1,0 +1,4 @@
+\copy company_dim FROM 'D:\Data Analytics Projects\SQL_2025_Data_Project\csv_files_dataset\company_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy skills_dim FROM 'D:\Data Analytics Projects\SQL_2025_Data_Project\csv_files_dataset\skills_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy job_postings_fact FROM 'D:\Data Analytics Projects\SQL_2025_Data_Project\csv_files_dataset\job_postings_fact.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy skills_job_dim FROM 'D:\Data Analytics Projects\SQL_2025_Data_Project\csv_files_dataset\skills_job_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
