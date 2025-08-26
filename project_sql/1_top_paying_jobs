@@ -1,6 +1,0 @@
--- test file for SQL push
--- Test for pushing data to GitHub repository
-
--- Testing to see if the file is correctly pushed to GitHub
-
-SELECT * FROM job_postings_fact LIMIT 10;
