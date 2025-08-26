@@ -2,7 +2,7 @@
 
 As an aspiring Data Storyteller, I believe in Aristotle's idea of "we learn by doing" - which inspired this project as a hands-on practice with SQL and Python skills to analyze current job skill demands and compensation patterns in the field I aspire to enter.
 
-This project will analyze the data job market in the United States as of June 2025 examing salary information, skill requirements, remote work opportunities.
+This project will analyze the data job market in the United States as of June 2025 examing salary information, skill requirements, and remote work opportunities.
 
 # Background
 
