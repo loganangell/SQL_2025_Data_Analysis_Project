@@ -24,7 +24,7 @@ For my analysis, I used several powerful tools:
 
 - **SQL**: The foundation of my analysis, allowing me to query the database for critical insights
 - **PostgreSQL**: The database management system that was chosen for this project to handle the job posting data
-- **Python**: The programming language used for data visualization, utillizing laibraries such as pandas and matplotlib
+- **Python**: The programming language used for data visualization, utilizing libraries such as pandas and matplotlib
 - **Visual Studio Code**: The code editor used to execute the queries and build the visuals
 - **Git and GitHub**: Essential for version control and sharing my project for collaboration and project tracking
 
