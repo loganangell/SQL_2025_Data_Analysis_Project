@@ -10,7 +10,7 @@ Question: What are the top skills based on salary?
 
 SELECT
     skills,
-    TO_CHAR(ROUND(AVG(salary_year_avg),0), '999,999,999') AS avg_salary_$
+    ROUND(AVG(salary_year_avg),0) AS avg_salary_$
 FROM 
     job_postings_fact
 INNER JOIN skills_job_dim ON job_postings_fact.job_id = skills_job_dim.job_id
