@@ -1,11 +1,11 @@
-"job_id","company_name","position","full_job_title","job_location","average_yearly_salary_$","year_posted"
-1574285,"Netflix","Data Scientist","Data Scientist , Games [Remote]","Anywhere","     680,000","2025"
-1335282,"Netflix","Data Scientist","Data Science Manager - Engineering","Los Gatos, CA","     640,000","2025"
-1610938,"Netflix","Data Engineer","Data Engineer - Content Production & Promotion [Remote]","Anywhere","     445,000","2025"
-1289958,"Netflix","Data Engineer","Data Engineer (L5)","Panama City, Panama","     445,000","2025"
-1578513,"Netflix","Data Engineer","Data Engineer - Commerce Product Data Engineering [Remote]","Anywhere","     445,000","2025"
-1598650,"Netflix","Data Analyst","Analytics Engineer - Playback Data (L5)","Anywhere","     445,000","2025"
-1558080,"Netflix","Data Scientist","Data Scientist (L5) - Netflix Preview Club","Anywhere","     445,000","2025"
-1283788,"Netflix","Data Analyst","Analytics Engineer (L5) - Live Quality of Experience","Anywhere","     445,000","2025"
-1564686,"Netflix","Data Engineer","Data Engineer (L4) - Security","Los Gatos, CA","     445,000","2025"
-1450898,"Netflix","Data Engineer","Privacy Engineer (L4), Data Protection","Panama City, Panama","     410,000","2025"
+job_id,company_name,position,full_job_title,job_location,average_yearly_salary_$,year_posted
+1574285,Netflix,Data Scientist,"Data Scientist , Games [Remote]",Anywhere,680000,2025
+1335282,Netflix,Data Scientist,Data Science Manager - Engineering,"Los Gatos, CA",640000,2025
+1610938,Netflix,Data Engineer,Data Engineer - Content Production & Promotion [Remote],Anywhere,445000,2025
+1289958,Netflix,Data Engineer,Data Engineer (L5),"Panama City, Panama",445000,2025
+1598650,Netflix,Data Analyst,Analytics Engineer - Playback Data (L5),Anywhere,445000,2025
+1578513,Netflix,Data Engineer,Data Engineer - Commerce Product Data Engineering [Remote],Anywhere,445000,2025
+1283788,Netflix,Data Analyst,Analytics Engineer (L5) - Live Quality of Experience,Anywhere,445000,2025
+1558080,Netflix,Data Scientist,Data Scientist (L5) - Netflix Preview Club,Anywhere,445000,2025
+1564686,Netflix,Data Engineer,Data Engineer (L4) - Security,"Los Gatos, CA",445000,2025
+1470185,Netflix,Data Engineer,"Privacy Engineer (L4), Data Protection","Panama City, Panama",410000,2025

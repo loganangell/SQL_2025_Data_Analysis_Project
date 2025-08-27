@@ -14,7 +14,7 @@ SELECT
     job_title_short AS position,
     job_title AS full_job_title,
     job_location,
-    TO_CHAR(ROUND(salary_year_avg, 0), '999,999,999') AS average_yearly_salary_$,
+    ROUND(salary_year_avg, 0)  average_yearly_salary_$,
     EXTRACT(YEAR FROM job_posted_date) AS year_posted
 FROM
     job_postings_fact
