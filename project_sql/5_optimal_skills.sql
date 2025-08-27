@@ -49,7 +49,7 @@ average_salary AS (
 SELECT
   skills_demand.skills,
   skills_demand.demand_count,
-  TO_CHAR(ROUND(average_salary.avg_salary, 0), '999,999,999') AS avg_salary_$
+  (ROUND(average_salary.avg_salary, 0)) AS avg_salary_$
 FROM
   skills_demand
 	INNER JOIN
