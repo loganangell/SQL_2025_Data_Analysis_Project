@@ -13,11 +13,9 @@ SELECT
     name AS company_name,
     job_title_short AS position,
     job_title AS full_job_title,
-    job_location
-    job_posted_date,
-    salary_year_avg AS average_yearly_salary,
-    -- job_work_from_home, -- this column is for when we want to filter for remote jobs
-    job_posted_date
+    job_location,
+    TO_CHAR(ROUND(salary_year_avg, 0), '999,999,999') AS average_yearly_salary_$,
+    EXTRACT(YEAR FROM job_posted_date) AS year_posted
 FROM
     job_postings_fact
 LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
