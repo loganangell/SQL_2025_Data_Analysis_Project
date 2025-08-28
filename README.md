@@ -201,13 +201,14 @@ This experience allowed me to go full steam into my aspirations to be a data pro
 
 ### Insights
 
-1.	As of 2025, Netflix was looking for data professionals, offering salaries from $410,000 to $680,000
-2.	High-paying skills needed to work at the top paying Netflix data positions were Python and SQL – showing the two programming languages are critical for success in the role, as well as significantly paying data professionals for their skills in those positions
+1.	As of 2025, the top 10 highest paid jobs came from Netflix, offering salaries from $410,000 to $680,000
+2.	High-paying skills needed to work at the top paying Netflix data positions were Python and SQL which appear to be critical for success in the data roles
 3.	SQL and Python, overall, appear to be the top demanded skills for data professionals in 2025
 4.	While SQL and Python compensate for six-figure salaries on average, having specialized skills in Azure and AWS appear to pay more
 5.	For remote positions, SQL and Python lead the charge in both in-demand skills and average salaries
 6.	Overall, skills in programming languages, cloud-based technologies, and visualization tools provide data professionals with an idea of what companies look for when hiring for data roles.
 
+
 ### Closing Remarks
 
-This exercise has provided me with an ability to learn a language that not only sought-after but provided me with the capability to discover other skills that are in demand as well as compensation for knowing these skills. Aspiring data professionals, such as I, can take this information and better position ourselves in a competitive job market. Constant learning and practice are important for aspiring data professionals to grow in the world of data.
+This exercise has provided me with an ability to learn a language that is not only sought-after but provided me with the capability to discover other skills that are in demand as well as compensation for knowing these skills. Aspiring data professionals, such as I, can take this information and better position ourselves in a competitive job market. Constant learning and practice are important for aspiring data professionals to grow in the world of data.
