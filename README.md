@@ -26,7 +26,7 @@ For my analysis, I used several powerful tools:
 
 # The Analysis
 
-The presentation of this project is available in the [project_presentation]() folder of this repository. Each query in this project was aimed to investigate specific aspects of data positions I have interest in. Here is how I approached each question:
+The presentation of this project is available in the "[project_presentation](https://github.com/loganangell/SQL_2025_Data_Analysis_Project/blob/main/project_presentation/Data%20Job%20Market%20Analysis.pdf)" folder of this repository. Each query in this project was aimed to investigate specific aspects of data positions I have interest in. Here is how I approached each question:
 
 ### Top Paying Data Jobs in 2025
 
