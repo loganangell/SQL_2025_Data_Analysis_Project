@@ -9,6 +9,7 @@ What is the top paying job available (data analyst, data scientist, business ana
 */
 
 SELECT
+    RANK() OVER (ORDER BY salary_year_avg DESC) AS salary_rank,
     job_id,
     name AS company_name,
     job_title_short AS position,
@@ -26,4 +27,4 @@ WHERE
     -- AND job_location = 'Anywhere' -- uncomment this line for remote jobs
 ORDER BY
     salary_year_avg DESC
-LIMIT 10;
+LIMIT 25;
